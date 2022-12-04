@@ -1,7 +1,7 @@
 # CandyCrush-JavaScript
 Hello 
 
-  Notes: This project belongs to Ania Kubow. I only made javascript
+         This project belongs to Ania Kubow. I only made javascript
           practice by rewriting the code. 
          Issues i had: I am pretty sure Ania Kubow made it without
           issues but i had to deal with some.
