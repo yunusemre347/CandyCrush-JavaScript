@@ -1,10 +1,12 @@
-# CandyCrush-JavaScript
+
 Hello 
 
          This project belongs to Ania Kubow. I only made javascript
           practice by rewriting the code. 
          Issues i had: I am pretty sure Ania Kubow made it without
           issues but i had to deal with some.
+          
+          https://regal-kangaroo-1369a7.netlify.app/
         
           My finished code: 
           couldn't fill first row if the match happened in the first row, 
